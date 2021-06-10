@@ -18,7 +18,6 @@ sayHello('HELLO', 'My name is','Prisca');*/
 
 
 function saySomething(message, whisper) { 
-
     if (whisper) {
     
         console.log('whisper');
