@@ -1,5 +1,12 @@
-//if (condition) {
-//    }
+/*let favDrink = sprite;
+
+if (favDrink == 'sprite') {
+        console.log('YAYYY')
+   } else if(favDrink == 'coke') {
+        console.log('EWWW') {
+     else {
+         console.log('Never mind')*/
+         
 
 let favDrink = 'Sprite'
 favDrink = 'Vodka'
